@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="graybar">#333</color>
+    <color name="view">#444</color>
+    <color name="poisk">#666</color>
+    <color name="blue">#3884bc</color>
+    <color name="routeColor">#FF0000</color> <!-- Красный цвет маршрута -->
+</resources>
